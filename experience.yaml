@@ -1,0 +1,81 @@
+personal:
+  name: Talhah Peerbhai
+  phone: +974 50463217
+  email: talhah.peerbhai@gmail.com
+  linkedin: linkedin.com/in/talhah-peerbhai
+  site: github.com/tvlpirb
+  
+education:
+  - name: Carnegie Mellon University
+    degree: Bachelor of Science in Computer Science, Minor in Tech Entrepreneurship
+    location: Doha, Qatar
+    date: Aug 2021 - May 2025
+    cw: Deep Learning | Imperative Computing, AI for Medicine | Functional Programming | Parallel Algorithms and Data Structures | Great Theoretical Ideas in CS | Intro to Computer Systems | Distributed Systems | Computational Biology | Constructive Logic | Marketing | Digital Marketing | Organizational Behaviour | Tech Entrepreneurship
+    awards: Deans List (Fall24), National Programming Contest 3rd, National Programming Contest 4th, Lifelines Hackathon 4th
+experience:
+  - role: Software Developer
+    name: Carnegie Mellon University
+    location: Doha, QA
+    date: Sep 2024 - May 2025
+    points:
+      - Built a REST API using Golang for a mobile app empowering students and staff to recycle
+      - Collaborated closely with frontend engineers and staff to refine functionality, improved testing coverage by 20%
+      - Managed system deployment and administration, including setup, scaling and maintenance
+  - role: Web Developer
+    name: Carnegie Mellon University
+    location: Doha, QA
+    date: May 2024 - April 2025
+    points:
+      - Engineered a full-stack web application using Svelte, designed to scale for 300+ users and is currently on-boardin
+      - Assess and troubleshoot computer problems brought by students, faculty and staff
+      - Maintain upkeep of computers, classroom equipment, and 200 printers across campus
+  - role: Founder at ReelAxe
+    name: University of Porto
+    location: Porto, PT
+    date: Jul 2025 - Aug 2024
+    points:
+      - Led overall strategy, operations and visions of the startup
+      - Validated product concept through interviews and surveys with 270 potential customers, refining the business model.
+      - Oversaw product development from concept to launch, bridging the business and technical requirements
+projects:
+  - name: AI Phoneme Classifier
+    skills: Python, Pytorch, Jupyter, Deep Learning
+    date: Jan 2025 - Feb 2025
+    points:
+      - Created a deep neural network using MLP to classify phoneme utterances on WSJ dataset
+      - Tested various hyper parameters and leveraged wandb to keep track of runs
+      - Achieved a classification of 86.9% accuracy and secured 33/306 on kaggle leaderboard
+  - name: FileStack
+    skills: Java, Unix, Networking
+    date: Sep 2025 - Oct 2024
+    points:
+      - Built a Distributed File System, scalable and fault-tolerant
+      - Implemented a naming server for centralized coordination, maintaining metadata and name space operations
+      - Designed concurrency control mechanisms enabling safe simultaneous access and ensuring data consistency
+  - name: Memory Allocator
+    skills: C, Networking, Unix
+    date: Nov 2023 - Nov 2023 
+    points:
+      - Developed a memory allocator using Least Recently Used (LRU) eviction policy and doubly linked free lists
+      - Improved memory utilization from 40% to 80%, optimizing how memory blocks are allocated and de-allocated
+      - Achieved high throughput by refining allocation, minimizing fragmentation, and ensuring fast memory access
+leadership:
+  - name: President
+    skills: OpenCMUQ Club
+    date: Aug 2024 - Apr 2025 
+    points:
+      - Lead a student driven organization aimed at fostering a collaborative open-source culture at CMUQ. I oversaw the maintenance of community-focused software projects, ensuring sustainability and growth through active student engagement and mentorship
+  - name: Outreach Assistant
+    skills: Google Developer Student Club
+    date: Oct 2024 - Apr 2025 
+    points:
+      - Managed communication to various organizations and coordinated events and guest speakers
+      - Designed and facilitated interactive workshops to introduce hands-on skills and develop a strong software foundation     
+  
+skills:
+  - category: Languages
+    skills: Java, Python, C/C++, Golang, JavaScript, HTML/CSS, Dart, Prolog, Haskell
+  - category: Frameworks
+    skills: Svelte, FastAPI, Tkinter, QT, PyTorch, Numpy
+  - category: Developer Tools
+    skills: Git, Docker, Node.js, Google Cloud Platform, VS Code, Unix, Nginx, Postman, Vim
