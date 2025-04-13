@@ -7,6 +7,7 @@ experience:
       - Built a REST API using Golang for a mobile app empowering students and staff to recycle
       - Collaborated closely with frontend engineers and staff to refine functionality, improved testing coverage by 20%
       - Managed system deployment and administration, including setup, scaling and maintenance
+
   - role: Web Developer
     name: Carnegie Mellon University
     location: Doha, QA
@@ -15,6 +16,7 @@ experience:
       - Engineered a full-stack web application using Svelte, designed to scale for 300+ users and is currently on-boardin
       - Assess and troubleshoot computer problems brought by students, faculty and staff
       - Maintain upkeep of computers, classroom equipment, and 200 printers across campus
+
   - role: Founder at ReelAxe
     name: University of Porto
     location: Porto, PT
@@ -23,7 +25,19 @@ experience:
       - Led overall strategy, operations and visions of the startup
       - Validated product concept through interviews and surveys with 270 potential customers, refining the business model.
       - Oversaw product development from concept to launch, bridging the business and technical requirements
+  
+
 projects:
+  - name: EcoCampus Application
+    skills: Golang, Dart, Android Development
+    date: May 2024 - Present
+    points:
+
+  - name: Schedule Genius
+    skills: Svelte, Javascript
+    date: May 2024 - Apr 2025
+    points:
+
   - name: AI Automatic Speech Recognition
     skills: Python, Pytorch, Jupyter, Deep Learning 
     date: Apr 2025 - Apr 2025 
@@ -37,9 +51,13 @@ projects:
       - Tested various hyper parameters and leveraged wandb to keep track of runs
       - Achieved a classification of 86.9% accuracy and secured 33/306 on kaggle leaderboard
 
+  - name: Distributed k-means clustering
+    skills: Java, Distributed Computing
+    date: Oct 2024 - Nov 2024
+
   - name: FileStack
     skills: Java, Unix, Networking
-    date: Sep 2025 - Oct 2024
+    date: Sep 2024 - Oct 2024
     points:
       - Built a Distributed File System, scalable and fault-tolerant
       - Implemented a naming server for centralized coordination, maintaining metadata and name space operations
