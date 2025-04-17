@@ -13,6 +13,14 @@ education:
     cw: Deep Learning | Imperative Computing, AI for Medicine | Functional Programming | Parallel Algorithms and Data Structures | Great Theoretical Ideas in CS | Intro to Computer Systems | Distributed Systems | Computational Biology | Constructive Logic | Marketing | Digital Marketing | Organizational Behaviour | Tech Entrepreneurship
     awards: Deans List (Fall24), National Programming Contest 3rd, National Programming Contest 4th, Lifelines Hackathon 4th
 experience:
+  - role: Product Intern
+    name: Snoonu
+    location: Doha, QA
+    date: Apr 2025 - Present 
+    points:
+      - Conducting in-depth research on S City merchant experiences and market trends to support product growth and overall strategy
+      - Building and maintaining a web scraping tool to automate data collection, improving efficiency in market insights
+      - Assisting project management operations with administrative tasks, including reporting and documentation
   - role: Software Developer
     name: Carnegie Mellon University
     location: Doha, QA
@@ -29,14 +37,6 @@ experience:
       - Engineered a full-stack web application using Svelte, designed to scale for 300+ users and is currently on-boardin
       - Assess and troubleshoot computer problems brought by students, faculty and staff
       - Maintain upkeep of computers, classroom equipment, and 200 printers across campus
-  - role: Founder at ReelAxe
-    name: University of Porto
-    location: Porto, PT
-    date: Jul 2025 - Aug 2024
-    points:
-      - Led overall strategy, operations and visions of the startup
-      - Validated product concept through interviews and surveys with 270 potential customers, refining the business model.
-      - Oversaw product development from concept to launch, bridging the business and technical requirements
 projects:
   - name: AI Phoneme Classifier
     skills: Python, Pytorch, Jupyter, Deep Learning
