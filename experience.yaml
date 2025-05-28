@@ -16,11 +16,10 @@ experience:
   - role: Product Intern
     name: Snoonu
     location: Doha, QA
-    date: Apr 2025 - Present 
+    date: Apr 2025 - May 2025
     points:
-      - Conducting in-depth research on S City merchant experiences and market trends to support product growth and overall strategy
-      - Building and maintaining a web scraping tool to automate data collection, improving efficiency in market insights
-      - Assisting project management operations with administrative tasks, including reporting and documentation
+      - Developed a robust web scraper for business research and insights, saving us 20% of the usual time taken
+      - Conducted in-depth research on user experiences and market trends to support the growth and overall strategy against competitors
   - role: Software Developer
     name: Carnegie Mellon University
     location: Doha, QA
