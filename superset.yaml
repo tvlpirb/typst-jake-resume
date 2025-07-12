@@ -1,10 +1,12 @@
 experience:
-  - role: Software Engineer
+  - role: Tech Graduate, Software Engineer
     name: UBS
     location: Doha, QA
     date: Jun 2025 - Present
     points:
-      - N/A
+      - Developing on the frontend for a trading application
+      - Training in full-stack engineering 
+      - Learning agile development
 
   - role: Product Intern
     name: Snoonu
